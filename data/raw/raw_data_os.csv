@@ -1,0 +1,16 @@
+id,titulo,data_abertura,data_encerramento,Respons vel,Setor Inicial,SLA,prioridade_horas,PRIORIDADE,STATUS,Categoria,Canal de Atendimento
+32805,DESLIGAMENTO - MARIA FRANCISCA ALVES DOS SANTOS,02/01/2024 08:36,2024-01-17 13:15:14,Jo o Luiz,01 - AG NCIA SP,Fora do prazo,24,3 - Normal - 24 horas  teis,Finalizado sem sucesso,CAPITAL - DESLIGAMENTO,E-mail
+32806,CR DITO CONSIGNADO,02/01/2024 09:12,2024-01-03 17:18:43,Fabimael Silva,01 - AG NCIA SP,Dentro do prazo estimado,24,3 - Normal - 24 horas  teis,Finalizado com sucesso,OPERA  O DE CR DITO - CONSIGNADO,E-mail
+32807,AMORTIZA  O DE PREJU ZO,01-02-2024 09:19,01-02-2024 09:24,Paloma Alves,COBRAN A ADMINISTRATIVA,Dentro do prazo estimado,8,1 - Alta - 8 horas  teis,Cancelado pelo solicitante,OUTROS,Interno
+32808,AMORTIZA  O DE PREJU ZO J2,02/01/2024 09:32,,Paloma Alves,COBRAN A ADMINISTRATIVA,Fora do prazo,8,1 - Alta - 8 horas  teis,Finalizado com sucesso,OUTROS,Interno
+32809,INSTALA  O DE SOFTWARE,2024-01-02 10:05:00,2024-01-02 11:45:00,Carlos Mendes,SUPORTE T CNICO,Dentro do prazo estimado,4,2 - Urgente - 4 horas  teis,Finalizado com sucesso,INFRAESTRUTURA - SOFTWARE,Interno
+32810,RESET DE SENHA,02/01/2024 10:22,2024-01-02 10:55:33,Ana Paula,SUPORTE T CNICO,Dentro do prazo estimado,4,2 - Urgente - 4 horas  teis,,ACESSO E SEGURAN A,Telefone
+32811,CONFIGURA  O DE IMPRESSORA,01-03-2024 08:00,2024-01-03 09:10:00,Carlos Mendes,SUPORTE T CNICO,Dentro do prazo estimado,8,1 - Alta - 8 horas  teis,Finalizado com sucesso,INFRAESTRUTURA - HARDWARE,Interno
+32812,TRANSFER NCIA BANC RIA INDEVIDA,03/01/2024 14:30,,Jo o Luiz,FINANCEIRO,Fora do prazo,24,3 - Normal - 24 horas  teis,Em andamento,OPERA  O FINANCEIRA,E-mail
+32813,EMISS O DE BOLETO,2024-01-04 09:00:00,2024-01-04 09:45:00,Patricia Pontes,FINANCEIRO,Dentro do prazo estimado,8,1 - Alta - 8 horas  teis,Finalizado com sucesso,COBRAN A - BOLETO,Portal
+32814,BLOQUEIO DE CART O,04/01/2024 11:00,2024-01-04 11:12:05,Ana Paula,01 - AG NCIA SP,Dentro do prazo estimado,1,4 - Cr tico - 1 hora  til,Finalizado com sucesso,CART O - BLOQUEIO,Telefone
+32815,CONTRATA  O DE SEGURO,01-05-2024 10:00,01-07-2024 16:00,Fabimael Silva,01 - AG NCIA SP,Fora do prazo,24,3 - Normal - 24 horas  teis,Finalizado com sucesso,SEGUROS - CONTRATA  O,E-mail
+32816,ERRO NO INTERNET BANKING,05/01/2024 08:15,,Carlos Mendes,SUPORTE T CNICO,Fora do prazo,8,1 - Alta - 8 horas  teis,,ACESSO E SEGURAN A,Portal
+32817,CONSULTA DE SALDO,2024-01-05 09:30:00,2024-01-05 09:35:00,Patricia Pontes,FINANCEIRO,Dentro do prazo estimado,1,4 - Cr tico - 1 hora  til,Finalizado com sucesso,INFORMA  ES GERAIS,Portal
+32818,ATUALIZA  O CADASTRAL,01-06-2024 14:00,01-06-2024 16:30,Jo o Luiz,01 - AG NCIA SP,Dentro do prazo estimado,8,1 - Alta - 8 horas  teis,Finalizado com sucesso,CADASTRO - ATUALIZA  O,Interno
+32819,FINANCIAMENTO RURAL,06/01/2024 09:00,,Fabimael Silva,FINANCEIRO,Fora do prazo,24,3 - Normal - 24 horas  teis,Em andamento,OPERA  O DE CR DITO - RURAL,E-mail
